@@ -47,7 +47,7 @@ const experiences = [
       },
       {
         name: "KGC World",
-        url: "https://kgc.world/",
+        url: "https://kgcworld.online/",
         description: "Referral-Based Crypto Earning Platform",
         highlights: [
           "Built KGC Staking application featuring user authentication, token buying, staking contracts, and dashboard analytics",
